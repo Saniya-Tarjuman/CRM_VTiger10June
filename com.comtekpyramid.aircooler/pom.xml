@@ -4,11 +4,7 @@
   <artifactId>com.comtekpyramid.aircooler</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-  	<dependency>
-  		<groupId>tekpyramid</groupId>
-  		<artifactId>BasicSelenium</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  
   	<!--
 		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
