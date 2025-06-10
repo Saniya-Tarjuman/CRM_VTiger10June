@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class HomePageForGit {
 	WebDriver driver;
-	public HomePage(WebDriver driver) {
+	public HomePageForGit(WebDriver driver) {
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
 	}
