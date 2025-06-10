@@ -4,6 +4,10 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+/**
+@author Tushar:
+Elements of OrganizationInfoPage
+**/
 
 public class OrganizationInfoPage {
 	public OrganizationInfoPage(WebDriver driver) {
