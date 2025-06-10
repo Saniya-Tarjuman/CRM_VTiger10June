@@ -5,7 +5,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 import com.mysql.jdbc.Driver;
-
+/**
+ * @author Saniya
+ */
 public class DataBaseUtility {
 	 Connection con;
  public void getDBConnection(String url, String UName, String PWD) throws SQLException {
