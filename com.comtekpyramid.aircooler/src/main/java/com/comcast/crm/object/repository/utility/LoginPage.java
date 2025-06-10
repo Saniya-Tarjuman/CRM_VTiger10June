@@ -7,7 +7,11 @@ import org.openqa.selenium.support.PageFactory;
 /**
  * @author Tushar
  * Login page reletad Elements are present
+ * 1:username textfield
+ * 2:password textfield
+ * 3:login button
  * login business Utility method present
+ * 
  */
 public class LoginPage {
 	//initialization
@@ -17,6 +21,7 @@ public class LoginPage {
 		}
 		
 	//declaration
+		
 	@FindBy(name = "user_name")
 	private WebElement userNameTextField;
 	
