@@ -30,5 +30,7 @@ public class CampaignPage {
     	camp.sendKeys(campname);
     	closedate.sendKeys(closeDate);
     	savebtn.click();
+    	
+    	//Added the neccessary changes
     }
 }
